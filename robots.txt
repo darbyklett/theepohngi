@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quiewooqua.tukano.co/sitemap.xml
